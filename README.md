@@ -1,4 +1,4 @@
-# tf-image-classification
+# Tf image classification
 > reference <a href="https://www.tensorflow.org/hub/tutorials/tf2_image_retraining">this</a> 
 
 ## preparation
